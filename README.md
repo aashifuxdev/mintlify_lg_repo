@@ -1,0 +1,1 @@
+# mintlify_lg_repo
