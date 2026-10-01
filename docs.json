@@ -9,7 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "groups": [
+    "pages": [
       {
         "group": "Introduction",
         "pages": [
@@ -807,7 +807,8 @@
             ]
           }
         ]
-      }
+      },
+      "new-page-added"
     ]
   }
 }
