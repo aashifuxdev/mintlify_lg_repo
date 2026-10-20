@@ -808,7 +808,15 @@
           }
         ]
       },
-      "new-page-added"
+      "new-page-check"
     ]
+  },
+  "seo": {
+    "metatags": {
+      "seo": "seo tag"
+    }
+  },
+  "variables": {
+    "var1": "good"
   }
 }
